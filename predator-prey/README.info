@@ -1,0 +1,5 @@
+- Jupyter is used to visualize each instance of the simulation
+
+- matplotlib is used to represent the phase diagrams and population scenarios
+
+- pandas was used for the use of dataframes for better data management
